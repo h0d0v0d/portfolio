@@ -1,0 +1,30 @@
+.projectCard{
+    width: 500px;
+    height: 250px;
+    border: solid 1px grey;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.projectCardFace{
+    height: 70%;
+    border: solid 1px grey;
+    display: flex;
+    justify-content: center;
+    padding-top: 170px;
+}
+
+.projectName{
+    color: white;
+    font-size: 13px;
+}
+
+.projectCardInfoWrapp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30%;
+    border: solid 1px grey;
+}
+

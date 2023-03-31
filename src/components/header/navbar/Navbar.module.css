@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+    height: auto;
+    flex-wrap: wrap;
+}
+
+.navvbutton{
+    width: 65px;
+}

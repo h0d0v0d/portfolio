@@ -1,0 +1,12 @@
+.skillsBlock{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px;
+} 
+
+.skillsBlockContainer{
+    height: 80%;
+    width: 100%;
+}

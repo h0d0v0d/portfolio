@@ -1,0 +1,19 @@
+.contactsBlock{
+    margin: 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px grey;
+}
+
+.contactsWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.text{
+    color: white;
+    margin: 10px 0;
+}

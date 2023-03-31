@@ -1,0 +1,24 @@
+.projectsBlock{
+    height: auto;
+    padding: 0 50px;
+}
+
+.projectsBlockContainer{
+    height: 80%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.projects{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.projects h2{
+    margin: 30px 0 10px 0;
+}

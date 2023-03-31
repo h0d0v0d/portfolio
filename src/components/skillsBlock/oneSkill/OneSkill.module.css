@@ -1,0 +1,14 @@
+.skillContainer{
+    margin-top: 30px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skillName{
+    margin: 0 13px 0 0;
+    color: white;
+}

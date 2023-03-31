@@ -1,0 +1,18 @@
+.header{
+    height: auto;
+    width: 100%;
+    background-color: #101010;
+    padding: 20px 50px;
+    box-sizing: border-box;
+    border-bottom: solid 1px grey;
+}
+
+.contentHeaderWrapp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.name{
+    color: #4bffa5;
+}
